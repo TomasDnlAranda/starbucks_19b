@@ -21,3 +21,43 @@
 .footer {
 	background-color: green;
 }
+
+/* tablet */
+
+@media (min-width: 768px) {
+	.header {
+		background-color: green;
+	}
+	.main {
+		background-color: green;
+	}
+	.gallery {
+		background-color: green;
+	}
+	.cards {
+		background-color: green;
+	}
+	.footer {
+		background-color: green;
+	}
+}
+
+/* desktop */
+
+@media (min-width: 1024px) {
+	.header {
+		background-color: green;
+	}
+	.main {
+		background-color: green;
+	}
+	.gallery {
+		background-color: green;
+	}
+	.cards {
+		background-color: green;
+	}
+	.footer {
+		background-color: green;
+	}
+}
