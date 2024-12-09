@@ -3,3 +3,21 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
+/* mobile */
+
+.header {
+	background-color: green;
+}
+.main {
+	background-color: green;
+}
+.gallery {
+	background-color: green;
+}
+.cards {
+	background-color: green;
+}
+.footer {
+	background-color: green;
+}
